@@ -1,1 +1,3 @@
 RVM como su nombre indica es un gestor de versiones de ruby, con el cual podemos tener y usar varias versiones de ruby en nuestra máquina.
+
+La diferencia entre ejecutar el programaba poniendo ruby o irb esque ruby solo ejecuta y nos muestra la frase, mientras que irb lee, evalua y ejecuta.
